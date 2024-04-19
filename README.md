@@ -20,6 +20,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+This project also uses the Next.js Image component which Edgio automatically optimizes and serves images using the Edgio Image Optimization feature.
+
 ## Learn More
 
 To learn more about Edgio, take a look at the following resources:
@@ -34,6 +36,6 @@ Deploy this project on Edgio with the following command:
 npm run edgio:deploy
 ```
 
-Check out our [Next.js  documentation](https://docs.edg.io/guides/v7/sites_frameworks/getting_started/next) for more details.
+Check out our [Next.js documentation](https://docs.edg.io/guides/v7/sites_frameworks/getting_started/next) for more details.
 
 #
